@@ -34,4 +34,4 @@ jobs:
           AWS_REGION: "us-east-1"
           SOURCE_DIR: "out"
           DEST_DIR: ""
-          BUCKET_NAME: "bzara-beauty-webapp"
+          BUCKET_NAME: "bzarabeauty"
